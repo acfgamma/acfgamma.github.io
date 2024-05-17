@@ -1,5 +1,0 @@
----
-visibility: protected
----
-# test
-test
