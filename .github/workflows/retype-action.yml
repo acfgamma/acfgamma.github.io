@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: maintain
+      contents: admin
 
     steps:
       - uses: actions/checkout@v4
