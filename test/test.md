@@ -1,2 +1,5 @@
+---
+visibility: protected
+---
 # test
 test
